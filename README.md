@@ -1,2 +1,2 @@
-# CS577
-Document my learning for CS577- Introduction for Algorithm
+# Algorithm
+My work for Introduction to Algorithm at UW Madison
