@@ -1,7 +1,7 @@
 # Algorithm
 My work for Introduction to Algorithm at UW Madison.
 
-Each week there is a homework that has a problem that is a mini-programming that relates to the specific topic of the day. The problem is the last question of the homework. PDF is provided in each week folder (except week 11 and 12 (NP-Completeness), which did not have a programming question).
+Each week there is a homework that has a problem that is a mini-programming that relates to the specific topic of the week. The problem is the last question of the homework. Homework PDF is provided in each week folder (except week 11 and 12 (NP-Completeness), which did not have a programming question).
 
 All programming solution cleared all autograder tests.
 
